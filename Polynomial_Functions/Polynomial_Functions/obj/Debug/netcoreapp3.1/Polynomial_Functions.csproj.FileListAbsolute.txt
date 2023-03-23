@@ -1,0 +1,14 @@
+A:\ProjectForC#\Computational-Methods\Polynomial_Functions\Polynomial_Functions\bin\Debug\netcoreapp3.1\Polynomial_Functions.exe
+A:\ProjectForC#\Computational-Methods\Polynomial_Functions\Polynomial_Functions\bin\Debug\netcoreapp3.1\Polynomial_Functions.deps.json
+A:\ProjectForC#\Computational-Methods\Polynomial_Functions\Polynomial_Functions\bin\Debug\netcoreapp3.1\Polynomial_Functions.runtimeconfig.json
+A:\ProjectForC#\Computational-Methods\Polynomial_Functions\Polynomial_Functions\bin\Debug\netcoreapp3.1\Polynomial_Functions.runtimeconfig.dev.json
+A:\ProjectForC#\Computational-Methods\Polynomial_Functions\Polynomial_Functions\bin\Debug\netcoreapp3.1\Polynomial_Functions.dll
+A:\ProjectForC#\Computational-Methods\Polynomial_Functions\Polynomial_Functions\bin\Debug\netcoreapp3.1\Polynomial_Functions.pdb
+A:\ProjectForC#\Computational-Methods\Polynomial_Functions\Polynomial_Functions\obj\Debug\netcoreapp3.1\Polynomial_Functions.csproj.AssemblyReference.cache
+A:\ProjectForC#\Computational-Methods\Polynomial_Functions\Polynomial_Functions\obj\Debug\netcoreapp3.1\Polynomial_Functions.GeneratedMSBuildEditorConfig.editorconfig
+A:\ProjectForC#\Computational-Methods\Polynomial_Functions\Polynomial_Functions\obj\Debug\netcoreapp3.1\Polynomial_Functions.AssemblyInfoInputs.cache
+A:\ProjectForC#\Computational-Methods\Polynomial_Functions\Polynomial_Functions\obj\Debug\netcoreapp3.1\Polynomial_Functions.AssemblyInfo.cs
+A:\ProjectForC#\Computational-Methods\Polynomial_Functions\Polynomial_Functions\obj\Debug\netcoreapp3.1\Polynomial_Functions.csproj.CoreCompileInputs.cache
+A:\ProjectForC#\Computational-Methods\Polynomial_Functions\Polynomial_Functions\obj\Debug\netcoreapp3.1\Polynomial_Functions.dll
+A:\ProjectForC#\Computational-Methods\Polynomial_Functions\Polynomial_Functions\obj\Debug\netcoreapp3.1\Polynomial_Functions.pdb
+A:\ProjectForC#\Computational-Methods\Polynomial_Functions\Polynomial_Functions\obj\Debug\netcoreapp3.1\Polynomial_Functions.genruntimeconfig.cache

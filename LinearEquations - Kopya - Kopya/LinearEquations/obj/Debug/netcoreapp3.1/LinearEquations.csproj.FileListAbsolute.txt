@@ -1,0 +1,42 @@
+A:\ProjectForC#\Computational-Methods\LinearEquations\LinearEquations\bin\Debug\netcoreapp3.1\LinearEquations.exe
+A:\ProjectForC#\Computational-Methods\LinearEquations\LinearEquations\bin\Debug\netcoreapp3.1\LinearEquations.deps.json
+A:\ProjectForC#\Computational-Methods\LinearEquations\LinearEquations\bin\Debug\netcoreapp3.1\LinearEquations.runtimeconfig.json
+A:\ProjectForC#\Computational-Methods\LinearEquations\LinearEquations\bin\Debug\netcoreapp3.1\LinearEquations.runtimeconfig.dev.json
+A:\ProjectForC#\Computational-Methods\LinearEquations\LinearEquations\bin\Debug\netcoreapp3.1\LinearEquations.dll
+A:\ProjectForC#\Computational-Methods\LinearEquations\LinearEquations\bin\Debug\netcoreapp3.1\LinearEquations.pdb
+A:\ProjectForC#\Computational-Methods\LinearEquations\LinearEquations\obj\Debug\netcoreapp3.1\LinearEquations.csproj.AssemblyReference.cache
+A:\ProjectForC#\Computational-Methods\LinearEquations\LinearEquations\obj\Debug\netcoreapp3.1\LinearEquations.GeneratedMSBuildEditorConfig.editorconfig
+A:\ProjectForC#\Computational-Methods\LinearEquations\LinearEquations\obj\Debug\netcoreapp3.1\LinearEquations.AssemblyInfoInputs.cache
+A:\ProjectForC#\Computational-Methods\LinearEquations\LinearEquations\obj\Debug\netcoreapp3.1\LinearEquations.AssemblyInfo.cs
+A:\ProjectForC#\Computational-Methods\LinearEquations\LinearEquations\obj\Debug\netcoreapp3.1\LinearEquations.csproj.CoreCompileInputs.cache
+A:\ProjectForC#\Computational-Methods\LinearEquations\LinearEquations\obj\Debug\netcoreapp3.1\LinearEquations.dll
+A:\ProjectForC#\Computational-Methods\LinearEquations\LinearEquations\obj\Debug\netcoreapp3.1\LinearEquations.pdb
+A:\ProjectForC#\Computational-Methods\LinearEquations\LinearEquations\obj\Debug\netcoreapp3.1\LinearEquations.genruntimeconfig.cache
+A:\ProjectForC#\Computational-Methods\LinearEquations - Kopya\LinearEquations\bin\Debug\netcoreapp3.1\LinearEquations.exe
+A:\ProjectForC#\Computational-Methods\LinearEquations - Kopya\LinearEquations\bin\Debug\netcoreapp3.1\LinearEquations.deps.json
+A:\ProjectForC#\Computational-Methods\LinearEquations - Kopya\LinearEquations\bin\Debug\netcoreapp3.1\LinearEquations.runtimeconfig.json
+A:\ProjectForC#\Computational-Methods\LinearEquations - Kopya\LinearEquations\bin\Debug\netcoreapp3.1\LinearEquations.runtimeconfig.dev.json
+A:\ProjectForC#\Computational-Methods\LinearEquations - Kopya\LinearEquations\bin\Debug\netcoreapp3.1\LinearEquations.dll
+A:\ProjectForC#\Computational-Methods\LinearEquations - Kopya\LinearEquations\bin\Debug\netcoreapp3.1\LinearEquations.pdb
+A:\ProjectForC#\Computational-Methods\LinearEquations - Kopya\LinearEquations\obj\Debug\netcoreapp3.1\LinearEquations.csproj.AssemblyReference.cache
+A:\ProjectForC#\Computational-Methods\LinearEquations - Kopya\LinearEquations\obj\Debug\netcoreapp3.1\LinearEquations.GeneratedMSBuildEditorConfig.editorconfig
+A:\ProjectForC#\Computational-Methods\LinearEquations - Kopya\LinearEquations\obj\Debug\netcoreapp3.1\LinearEquations.AssemblyInfoInputs.cache
+A:\ProjectForC#\Computational-Methods\LinearEquations - Kopya\LinearEquations\obj\Debug\netcoreapp3.1\LinearEquations.AssemblyInfo.cs
+A:\ProjectForC#\Computational-Methods\LinearEquations - Kopya\LinearEquations\obj\Debug\netcoreapp3.1\LinearEquations.csproj.CoreCompileInputs.cache
+A:\ProjectForC#\Computational-Methods\LinearEquations - Kopya\LinearEquations\obj\Debug\netcoreapp3.1\LinearEquations.dll
+A:\ProjectForC#\Computational-Methods\LinearEquations - Kopya\LinearEquations\obj\Debug\netcoreapp3.1\LinearEquations.pdb
+A:\ProjectForC#\Computational-Methods\LinearEquations - Kopya\LinearEquations\obj\Debug\netcoreapp3.1\LinearEquations.genruntimeconfig.cache
+A:\ProjectForC#\Computational-Methods\LinearEquations - Kopya - Kopya\LinearEquations\obj\Debug\netcoreapp3.1\LinearEquations.csproj.AssemblyReference.cache
+A:\ProjectForC#\Computational-Methods\LinearEquations - Kopya - Kopya\LinearEquations\obj\Debug\netcoreapp3.1\LinearEquations.GeneratedMSBuildEditorConfig.editorconfig
+A:\ProjectForC#\Computational-Methods\LinearEquations - Kopya - Kopya\LinearEquations\obj\Debug\netcoreapp3.1\LinearEquations.AssemblyInfoInputs.cache
+A:\ProjectForC#\Computational-Methods\LinearEquations - Kopya - Kopya\LinearEquations\obj\Debug\netcoreapp3.1\LinearEquations.AssemblyInfo.cs
+A:\ProjectForC#\Computational-Methods\LinearEquations - Kopya - Kopya\LinearEquations\obj\Debug\netcoreapp3.1\LinearEquations.csproj.CoreCompileInputs.cache
+A:\ProjectForC#\Computational-Methods\LinearEquations - Kopya - Kopya\LinearEquations\obj\Debug\netcoreapp3.1\LinearEquations.dll
+A:\ProjectForC#\Computational-Methods\LinearEquations - Kopya - Kopya\LinearEquations\obj\Debug\netcoreapp3.1\LinearEquations.pdb
+A:\ProjectForC#\Computational-Methods\LinearEquations - Kopya - Kopya\LinearEquations\bin\Debug\netcoreapp3.1\LinearEquations.exe
+A:\ProjectForC#\Computational-Methods\LinearEquations - Kopya - Kopya\LinearEquations\bin\Debug\netcoreapp3.1\LinearEquations.deps.json
+A:\ProjectForC#\Computational-Methods\LinearEquations - Kopya - Kopya\LinearEquations\bin\Debug\netcoreapp3.1\LinearEquations.runtimeconfig.json
+A:\ProjectForC#\Computational-Methods\LinearEquations - Kopya - Kopya\LinearEquations\bin\Debug\netcoreapp3.1\LinearEquations.runtimeconfig.dev.json
+A:\ProjectForC#\Computational-Methods\LinearEquations - Kopya - Kopya\LinearEquations\bin\Debug\netcoreapp3.1\LinearEquations.dll
+A:\ProjectForC#\Computational-Methods\LinearEquations - Kopya - Kopya\LinearEquations\bin\Debug\netcoreapp3.1\LinearEquations.pdb
+A:\ProjectForC#\Computational-Methods\LinearEquations - Kopya - Kopya\LinearEquations\obj\Debug\netcoreapp3.1\LinearEquations.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Fatih\Desktop\HospitalStaff\bin\Debug\netcoreapp3.1\HospitalStaff.exe
+C:\Users\Fatih\Desktop\HospitalStaff\bin\Debug\netcoreapp3.1\HospitalStaff.deps.json
+C:\Users\Fatih\Desktop\HospitalStaff\bin\Debug\netcoreapp3.1\HospitalStaff.runtimeconfig.json
+C:\Users\Fatih\Desktop\HospitalStaff\bin\Debug\netcoreapp3.1\HospitalStaff.runtimeconfig.dev.json
+C:\Users\Fatih\Desktop\HospitalStaff\bin\Debug\netcoreapp3.1\HospitalStaff.dll
+C:\Users\Fatih\Desktop\HospitalStaff\bin\Debug\netcoreapp3.1\HospitalStaff.pdb
+C:\Users\Fatih\Desktop\HospitalStaff\obj\Debug\netcoreapp3.1\HospitalStaff.csproj.AssemblyReference.cache
+C:\Users\Fatih\Desktop\HospitalStaff\obj\Debug\netcoreapp3.1\HospitalStaff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\Desktop\HospitalStaff\obj\Debug\netcoreapp3.1\HospitalStaff.AssemblyInfoInputs.cache
+C:\Users\Fatih\Desktop\HospitalStaff\obj\Debug\netcoreapp3.1\HospitalStaff.AssemblyInfo.cs
+C:\Users\Fatih\Desktop\HospitalStaff\obj\Debug\netcoreapp3.1\HospitalStaff.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\HospitalStaff\obj\Debug\netcoreapp3.1\HospitalStaff.dll
+C:\Users\Fatih\Desktop\HospitalStaff\obj\Debug\netcoreapp3.1\HospitalStaff.pdb
+C:\Users\Fatih\Desktop\HospitalStaff\obj\Debug\netcoreapp3.1\HospitalStaff.genruntimeconfig.cache

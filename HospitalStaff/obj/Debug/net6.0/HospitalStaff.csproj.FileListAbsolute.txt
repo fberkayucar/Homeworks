@@ -1,0 +1,30 @@
+C:\Users\Fatih\Desktop\HospitalStaff\bin\Debug\net6.0\HospitalStaff.exe
+C:\Users\Fatih\Desktop\HospitalStaff\bin\Debug\net6.0\HospitalStaff.deps.json
+C:\Users\Fatih\Desktop\HospitalStaff\bin\Debug\net6.0\HospitalStaff.runtimeconfig.json
+C:\Users\Fatih\Desktop\HospitalStaff\bin\Debug\net6.0\HospitalStaff.dll
+C:\Users\Fatih\Desktop\HospitalStaff\bin\Debug\net6.0\ref\HospitalStaff.dll
+C:\Users\Fatih\Desktop\HospitalStaff\bin\Debug\net6.0\HospitalStaff.pdb
+C:\Users\Fatih\Desktop\HospitalStaff\obj\Debug\net6.0\HospitalStaff.csproj.AssemblyReference.cache
+C:\Users\Fatih\Desktop\HospitalStaff\obj\Debug\net6.0\HospitalStaff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\Desktop\HospitalStaff\obj\Debug\net6.0\HospitalStaff.AssemblyInfoInputs.cache
+C:\Users\Fatih\Desktop\HospitalStaff\obj\Debug\net6.0\HospitalStaff.AssemblyInfo.cs
+C:\Users\Fatih\Desktop\HospitalStaff\obj\Debug\net6.0\HospitalStaff.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\HospitalStaff\obj\Debug\net6.0\HospitalStaff.dll
+C:\Users\Fatih\Desktop\HospitalStaff\obj\Debug\net6.0\ref\HospitalStaff.dll
+C:\Users\Fatih\Desktop\HospitalStaff\obj\Debug\net6.0\HospitalStaff.pdb
+C:\Users\Fatih\Desktop\HospitalStaff\obj\Debug\net6.0\HospitalStaff.genruntimeconfig.cache
+C:\Users\Fatih\Desktop\Programlama Egzersizleri\HospitalStaff\bin\Debug\net6.0\HospitalStaff.exe
+C:\Users\Fatih\Desktop\Programlama Egzersizleri\HospitalStaff\bin\Debug\net6.0\HospitalStaff.deps.json
+C:\Users\Fatih\Desktop\Programlama Egzersizleri\HospitalStaff\bin\Debug\net6.0\HospitalStaff.runtimeconfig.json
+C:\Users\Fatih\Desktop\Programlama Egzersizleri\HospitalStaff\bin\Debug\net6.0\HospitalStaff.dll
+C:\Users\Fatih\Desktop\Programlama Egzersizleri\HospitalStaff\bin\Debug\net6.0\ref\HospitalStaff.dll
+C:\Users\Fatih\Desktop\Programlama Egzersizleri\HospitalStaff\bin\Debug\net6.0\HospitalStaff.pdb
+C:\Users\Fatih\Desktop\Programlama Egzersizleri\HospitalStaff\obj\Debug\net6.0\HospitalStaff.csproj.AssemblyReference.cache
+C:\Users\Fatih\Desktop\Programlama Egzersizleri\HospitalStaff\obj\Debug\net6.0\HospitalStaff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\Desktop\Programlama Egzersizleri\HospitalStaff\obj\Debug\net6.0\HospitalStaff.AssemblyInfoInputs.cache
+C:\Users\Fatih\Desktop\Programlama Egzersizleri\HospitalStaff\obj\Debug\net6.0\HospitalStaff.AssemblyInfo.cs
+C:\Users\Fatih\Desktop\Programlama Egzersizleri\HospitalStaff\obj\Debug\net6.0\HospitalStaff.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\Programlama Egzersizleri\HospitalStaff\obj\Debug\net6.0\HospitalStaff.dll
+C:\Users\Fatih\Desktop\Programlama Egzersizleri\HospitalStaff\obj\Debug\net6.0\ref\HospitalStaff.dll
+C:\Users\Fatih\Desktop\Programlama Egzersizleri\HospitalStaff\obj\Debug\net6.0\HospitalStaff.pdb
+C:\Users\Fatih\Desktop\Programlama Egzersizleri\HospitalStaff\obj\Debug\net6.0\HospitalStaff.genruntimeconfig.cache

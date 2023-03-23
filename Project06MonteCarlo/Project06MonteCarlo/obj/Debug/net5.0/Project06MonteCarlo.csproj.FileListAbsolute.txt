@@ -1,0 +1,16 @@
+C:\Users\yigal\RiderProjects\Project06MonteCarlo\Project06MonteCarlo\bin\Debug\net5.0\Project06MonteCarlo.exe
+C:\Users\yigal\RiderProjects\Project06MonteCarlo\Project06MonteCarlo\bin\Debug\net5.0\Project06MonteCarlo.deps.json
+C:\Users\yigal\RiderProjects\Project06MonteCarlo\Project06MonteCarlo\bin\Debug\net5.0\Project06MonteCarlo.runtimeconfig.json
+C:\Users\yigal\RiderProjects\Project06MonteCarlo\Project06MonteCarlo\bin\Debug\net5.0\Project06MonteCarlo.runtimeconfig.dev.json
+C:\Users\yigal\RiderProjects\Project06MonteCarlo\Project06MonteCarlo\bin\Debug\net5.0\Project06MonteCarlo.dll
+C:\Users\yigal\RiderProjects\Project06MonteCarlo\Project06MonteCarlo\bin\Debug\net5.0\ref\Project06MonteCarlo.dll
+C:\Users\yigal\RiderProjects\Project06MonteCarlo\Project06MonteCarlo\bin\Debug\net5.0\Project06MonteCarlo.pdb
+C:\Users\yigal\RiderProjects\Project06MonteCarlo\Project06MonteCarlo\obj\Debug\net5.0\Project06MonteCarlo.csproj.AssemblyReference.cache
+C:\Users\yigal\RiderProjects\Project06MonteCarlo\Project06MonteCarlo\obj\Debug\net5.0\Project06MonteCarlo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yigal\RiderProjects\Project06MonteCarlo\Project06MonteCarlo\obj\Debug\net5.0\Project06MonteCarlo.AssemblyInfoInputs.cache
+C:\Users\yigal\RiderProjects\Project06MonteCarlo\Project06MonteCarlo\obj\Debug\net5.0\Project06MonteCarlo.AssemblyInfo.cs
+C:\Users\yigal\RiderProjects\Project06MonteCarlo\Project06MonteCarlo\obj\Debug\net5.0\Project06MonteCarlo.csproj.CoreCompileInputs.cache
+C:\Users\yigal\RiderProjects\Project06MonteCarlo\Project06MonteCarlo\obj\Debug\net5.0\Project06MonteCarlo.dll
+C:\Users\yigal\RiderProjects\Project06MonteCarlo\Project06MonteCarlo\obj\Debug\net5.0\ref\Project06MonteCarlo.dll
+C:\Users\yigal\RiderProjects\Project06MonteCarlo\Project06MonteCarlo\obj\Debug\net5.0\Project06MonteCarlo.pdb
+C:\Users\yigal\RiderProjects\Project06MonteCarlo\Project06MonteCarlo\obj\Debug\net5.0\Project06MonteCarlo.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "62bc63d4-fb94-4b44-9806-40fd3f298dd7": {
+      "ProjectGuid": "62bc63d4-fb94-4b44-9806-40fd3f298dd7",
+      "DisplayName": "HospitalStaff",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

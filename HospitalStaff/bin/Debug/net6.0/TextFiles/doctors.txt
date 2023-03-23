@@ -1,0 +1,6 @@
+doc1{=}doc1{=}john{=}will{=}12345678910{=}cardiolog{=}123
+DOC2{=}DPC{=}stefan{=}kunt{=}12345678911{=}anesthesist{=}1234
+doc3{=}doc3{=}jim{=}carrey{=}12345678912{=}internal{=}12345
+doc4{=}doc4{=}hale{=}betul{=}12345678913{=}radiology{=}123456
+doc5{=}doc5{=}stephen{=}king{=}12345678914{=}medical{=}1231
+doc6{=}doc6{=}yuval{=}noah{=}12345678915{=}allergy{=}11111
