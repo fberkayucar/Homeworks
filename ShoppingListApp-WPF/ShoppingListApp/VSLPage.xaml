@@ -1,0 +1,22 @@
+﻿<Window x:Class="ShoppingListApp.VSLPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ShoppingListApp"
+        mc:Ignorable="d"
+        Width="600" Height="350"
+      Title="VSLPage" Loaded="Window_Loaded">
+
+    <Grid Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="10*"/>
+            <RowDefinition Height="3*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="User: " FontSize="20" Margin="15" VerticalAlignment="Center" HorizontalAlignment="Left" Grid.Row="0"/>
+        
+        <Button x:Name="VSL_close" Click="VSL_closebt" Content="Exit" Grid.Row="2" Width="60" Height="25" HorizontalAlignment="Right" Margin="10"/>
+        <DataGrid Grid.Row="1" d:ItemsSource="{Binding}" Name="VSLDatagrid"/>
+    </Grid>
+</Window>

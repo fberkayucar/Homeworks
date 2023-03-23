@@ -1,0 +1,44 @@
+﻿<Window x:Class="ShoppingListApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ShoppingListApp"
+        mc:Ignorable="d" 
+        Loaded="Window_Loaded"
+        Title="MainWindow" Height="720" Width="480" 
+        WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Canvas>
+            <TextBox x:Name="fullnamex" Height="30" Width="260" Canvas.Top="35" Canvas.Left="90"/>
+        </Canvas>
+        <TextBlock Text="Username: " Grid.Row="0" Grid.Column="0" Margin="10" Width="60" Height="30" HorizontalAlignment="Left"/>
+        <Button Content="Login" Name="LoginUsername" Click="LoginUsername_Click" Grid.Column="1" Grid.Row="0" Margin="10" Width="80" Height="30" HorizontalAlignment="Right"/>
+        <TextBlock Text="Choose Item" Grid.Row="1" Grid.Column="0" Margin="10" Width="160" Height="30" HorizontalAlignment="Left"/>
+        <ComboBox x:Name="ComboboxItems" ItemsSource="{Binding}" DisplayMemberPath="ProductName" Grid.Row="1" Grid.Column="1" Margin="10" Width="160" Height="30" HorizontalAlignment="Left"/>
+        <TextBlock Text="Type Quantity" Grid.Row="2" Grid.Column="0" Margin="10" Width="160" Height="30" HorizontalAlignment="Left"/>
+        <TextBox Name="itemquantityx" Grid.Row="2" Grid.Column="1" Margin="10" Width="160" Height="30" HorizontalAlignment="Left"/>
+        <Button Content="Add Item" Name="AddItemButton" Click="AddItemButton_Click" Grid.Column="1" Grid.Row="3" Margin="10" Width="60" Height="20"/>
+        <Button Content="Edit Shopping List" Grid.Column="1" Grid.Row="4" Margin="10" Width="160" Height="30" HorizontalAlignment="Center" Name="ESL_open" Click="ESL_open_Click"/>
+        <Button Content="View Shopping List" Grid.Column="0" Grid.Row="4" Margin="10" Width="160" Height="30" HorizontalAlignment="Center" Name="VSLB" Click="VSLB_Click"/>
+        <TextBlock Text="Logged User: " Grid.Row="5" Grid.Column="0" Margin="10" Width="160" Height="30" HorizontalAlignment="Center"/>
+        <TextBlock Text="{Binding}" Name="LoggedUser" Grid.Row="5" Grid.Column="1" Margin="10" Width="160" Height="30" HorizontalAlignment="Center"/>
+        <Button x:Name="SL_addItem" HorizontalAlignment="Center" Content="Add Item to List" Margin="10" Grid.Column="0" Grid.Row="6" Width="100" Height="30" Click="SL_addItem_Click"/>
+        <Button Content="Exit" Name="button_closemain" Grid.Column="1" Grid.Row="6" Margin="10" Width="60" Height="30" Click="button_closemain_Click"/>
+        <TextBlock Text="{Binding}" Name="gökaytext" Grid.Column="1" Grid.Row="7"/>
+    </Grid>
+</Window>
